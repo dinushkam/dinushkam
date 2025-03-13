@@ -1,6 +1,6 @@
-                                                          "Hellow World"; I'm Dinushka Malshan
+ "Hellow World"; I'm Dinushka Malshan
 
-                                 # 💫 About Me:
+ # 💫 About Me:
 🔭  studying computer science at University of Kelaniya.<br>👯 And I'm front-end developer<br>
 
 
