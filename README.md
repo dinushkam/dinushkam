@@ -19,7 +19,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DDMalshan)<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinushkamalshan5@gmail.com)<br> 
 
---[![](https://visitcount.itsvg.in/api?id=dinushkam&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
